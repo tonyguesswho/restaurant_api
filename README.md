@@ -1,1 +1,1 @@
-# restaurant_api
+A django API to manage Recipe
